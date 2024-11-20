@@ -1,5 +1,5 @@
 a=input("Enter a word: ")
-b=a.lower()
+b=a.lower() 
 vowels=0
 other=0
 for i in b:
